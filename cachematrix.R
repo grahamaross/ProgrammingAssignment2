@@ -46,6 +46,6 @@ cacheSolve <- function(x, ...) {
 ## solve(m2) %*% m2 # yields the identity matrix
 
 ## Use cacheSolve to invert the matrix thrice. On the second and third times a message indicates that the cache was used.
-## cacheSolve(m2)
-## cacheSolve(m2)
-## cacheSolve(m2)
+## cacheSolve(mcm)
+## cacheSolve(mcm)
+## cacheSolve(mcm)
